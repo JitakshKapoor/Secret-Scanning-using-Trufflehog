@@ -9,7 +9,8 @@ To setup the cronjob for this script, follow the following steps:
 3. Enter this in the editor:
    - In the first line, add `MAILTO="mail_id"` if you want to receive mail whenever the scan is executed. (Optional)
    - In the second line, add `30 15 * * * /bin/bash <path>/<script_name>.sh` , then press `Esc` button to exit the insert mode.
-	 ![image](https://user-images.githubusercontent.com/46684765/226912664-e417080c-7708-43cd-8701-f222278230a7.png)
+     <img width="1015" alt="Screenshot 2023-03-22 at 6 26 56 PM" src="https://user-images.githubusercontent.com/46684765/226965452-c0be96a6-8797-4518-b195-1b2045416acf.png">
+
 4. Type and enter `:wq` to save and exit the crontab.
 
 
