@@ -40,4 +40,3 @@ The remaining fields (* * *) represent the day of the month, month, and day of t
 
 ---
 
-## Task Scheduler of Windows
