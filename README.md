@@ -1,5 +1,5 @@
 # Secret Scanning using Trufflehog
-The script can be used to execute secret scanning using Trufflehog in the multiple private/public repos at one go with the results of each repo being saved in different Text files. The script can run on any operating system: MacOS/Windows/Linux. To reduce the work of running the script again and again, you can set up a cronjob/Task Scheduler for it, which would execute this script after the desired intervals of time.
+The script can be used to execute secret scanning using Trufflehog in the multiple private/public repos at one go with the results of each repo being saved in different Text files. The script can run on any operating system: MacOS/Linux. To reduce the work of running the script again and again, you can set up a cronjob/Task Scheduler for it, which would execute this script after the desired intervals of time.
 
 ## Cronjob for MacOS/Linux
 To setup the cronjob for this script, follow the following steps:
